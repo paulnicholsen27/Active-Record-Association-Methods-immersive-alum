@@ -15,6 +15,7 @@ GEM
       tzinfo (~> 1.1)
     arel (6.0.4)
     builder (3.2.3)
+    byebug (10.0.2)
     coderay (1.1.2)
     concurrent-ruby (1.0.5)
     database_cleaner (1.6.2)
@@ -63,6 +64,7 @@ PLATFORMS
 
 DEPENDENCIES
   activerecord (~> 4.2)
+  byebug
   database_cleaner
   pry
   rake
